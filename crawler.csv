@@ -1,0 +1,53 @@
+Medicamentos;0 0 21 * * 0;PACHECO;https://www.drogariasPACHECO.com.br/medicamentos;
+Saúde e Bem Estar;0 0 21 * * 1;PACHECO;https://www.drogariasPACHECO.com.br/saude-e-bem-estar;
+Beleza e Higiene;0 0 21 * * 2;PACHECO;https://www.drogariasPACHECO.com.br/beleza-e-higiene;
+Mamãe e Bebê;0 0 21 * * 3;PACHECO;https://www.drogariasPACHECO.com.br/mamae-e-bebe;
+Genéricos;0 0 21 * * 4;PACHECO;https://www.drogariasPACHECO.com.br/genericos;
+Leites e fórmulas infantis;0 0 21 * * 5;PACHECO;https://www.drogariasPACHECO.com.br/mamae-e-bebe/alimentos-infantis/leites-e-formulas-infantis;
+Fraldas;0 0 21 * * 6;PACHECO;https://www.drogariasPACHECO.com.br/fraldas;
+Complemento Alimentar;0 0 21 * * 7;PACHECO;https://www.drogariasPACHECO.com.br/saude-e-bem-estar/alimentos-saudaveis/complemento-alimentar;
+Mundo Infantil;0 0 10 * * 1;PACHECO;https://www.drogariasPACHECO.com.br/mamae-e-bebe
+Adoçantes;0 0 10 * * 1;PACHECO;https://www.drogariasPACHECO.com.br/saude-e-bem-estar/alimentos-saudaveis/adocantes?PS=48
+Protetor Solar;0 0 10 * * 1;PACHECO;https://www.drogariasPACHECO.com.br/protetor-solar
+Primeiros Socorros;0 0 10 * * 1;PACHECO;https://www.drogariasPACHECO.com.br/home-care/primeiros-socorros
+Diabetes;0 0 10 * * 1;PACHECO; https://www.drogariasPACHECO.com.br/home-care
+Cuidados com a Pele;0 0 10 * * 1;PACHECO;https://www.drogariasPACHECO.com.br/beleza-e-higiene/
+Medicamentos;0 0 10 * * 1;PACHECO;https://www.drogariasPACHECO.com.br/medicamentos
+Pomadas;0 0 10 * * 1;PACHECO;https://www.drogariasPACHECO.com.br/pesquisa?q=pomada
+
+Medicamentos;0 0 5 * * 0;RAIA;https://www.drogaRAIA.com.br/saude/medicamentos.html;
+Saúde e Bem Estar;0 0 5 * * 1;RAIA;https://www.drogaRAIA.com.br/saude/bem-estar.html;
+Beleza e Higiene;0 0 5 * * 2;RAIA;https://www.drogaRAIA.com.br/drogaRAIA-cuidados-diarios.html;
+Coisas de Criança;0 0 5 * * 3;RAIA;https://www.drogaRAIA.com.br/coisas-de-crianca.html;
+Genéricos;0 0 5 * * 4;RAIA;https://www.drogaRAIA.com.br/saude/medicamentos/genericos-de-a-z.html;
+Sua Beleza;0 0 5 * * 5;RAIA;https://www.drogaRAIA.com.br/sua-beleza.html;
+Alimentação Infantil;0 0 5 * * 6;RAIA;https://www.drogaRAIA.com.br/coisas-de-crianca/alimentacao.html;
+Fraldas;0 0 5 * * 7;RAIA;https://www.drogaRAIA.com.br/coisas-de-crianca/fraldas-e-troca.html;		
+Complementos Alimentares;0 0 8 * * 1;RAIA;https://www.drogaRAIA.com.br/saude/bem-estar/complementos-alimentares.html;
+Mundo Infantil;0 0 10 * * 1;RAIA;https://www.drogaRAIA.com.br/coisas-de-crianca.html
+Adoçantes;0 0 10 * * 1;RAIA;https://www.drogaRAIA.com.br/bem-estar/lanches-rapidos/adocantes.html
+Protetor Solar;0 0 10 * * 1;RAIA;https://www.drogaRAIA.com.br/sua-beleza/cuidados-com-a-pele/protetor-solar.html
+Primeiros Socorros;0 0 10 * * 1;RAIA;https://www.drogaRAIA.com.br/drogaRAIA-cuidados-diarios/primeiros-socorros.html
+Diabetes;0 0 10 * * 1;RAIA; https://www.drogaRAIA.com.br/saude/aparelhos-e-testes.html
+Cuidados com a Pele;0 0 10 * * 1;RAIA;https://www.drogaRAIA.com.br/drogaRAIA-cuidados-diarios/higiene-pessoal.html
+Pomadas;0 0 10 * * 1;RAIA;https://busca.drogaRAIA.com.br/search?w=pomada&t=6070543&uf=SP&ts=custom-dr
+Medicamentos;0 0 10 * * 1;RAIA;https://www.drogaRAIA.com.br/saude/medicamentos.html
+
+
+Medicamentos;0 0 10 * * 1;VENANCIO;https://www.drogariavenancio.com.br/medicamentos
+Pomadas;0 0 10 * * 1;VENANCIO;https://www.drogariavenancio.com.br/busca?ft=pomada
+Medicamentos;0 0 1 * * 0;VENANCIO;https://www.drogariavenancio.com.br/medicamentos;
+Saúde e Bem Estar;0 0 1 * * 1;VENANCIO;https://www.drogariavenancio.com.br/saude-e-bem-estar;
+Beleza e Higiene;0 0 1 * * 2;VENANCIO;https://www.drogariavenancio.com.br/higiene-e-cuidados-pessoais;
+Mundo Infantil;0 0 1 * * 3;VENANCIO;https://www.drogariavenancio.com.br/mundo-infantil;
+Beleza;0 0 1 * * 4;VENANCIO;https://www.drogariavenancio.com.br/beleza;
+Dermo Cosméticos;0 0 1 * * 5;VENANCIO;https://www.drogariavenancio.com.br/dermocosmeticos;
+Alimentação Infantil;0 0 1 * * 6;VENANCIO;https://www.drogariavenancio.com.br/mundo-infantil/alimentacao-infantil;
+Fraldas;0 0 1 * * 7;VENANCIO;https://www.drogariavenancio.com.br/mundo-infantil/troca-de-fraldas;
+Suplementos;0 0 10 * * 1;VENANCIO;https://www.drogariavenancio.com.br/saude-e-bem-estar/suplementos;
+Mundo Infantil;0 0 10 * * 1;VENANCIO;https://www.drogariavenancio.com.br/mundo-infantil
+Adoçantes;0 0 10 * * 1;VENANCIO;https://www.drogariavenancio.com.br/conveniencia/nutricionais/adocante 
+Protetor Solar;0 0 10 * * 1;VENANCIO;https://www.drogariavenancio.com.br/dermocosmeticos/solar
+Primeiros Socorros;0 0 10 * * 1;VENANCIO;https://www.drogariavenancio.com.br/saude-e-bem-estar/primeiros-socorros
+Diabetes;0 0 10 * * 1;VENANCIO;https://www.drogariavenancio.com.br/saude-e-bem-estar/testes-e-aparelhos
+Cuidados com a Pele;0 0 10 * * 1;VENANCIO;https://www.drogariavenancio.com.br/higiene-e-cuidados-pessoais
